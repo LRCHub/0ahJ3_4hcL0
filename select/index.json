@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ONESELF（feat. 初音ミク）",
+  "base_artist": "Twinfield、初音ミク",
+  "createdAt": "2026-03-28T09:29:02.646398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ONESELF (feat. 初音ミク)",
+      "artist": "Twinfield",
+      "has_synced": true,
+      "path": "select/01_ONESELF_(feat._初音ミク)_Twinfield.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ONESELF (feat. 初音ミク)",
+      "artist": "Twinfield, 初音ミク",
+      "has_synced": true,
+      "path": "select/02_ONESELF_(feat._初音ミク)_Twinfield,_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Oneself Feat Claudia Brucken",
+      "artist": "Andy Bell",
+      "has_synced": true,
+      "path": "select/03_Love_Oneself_Feat_Claudia_Brucken_Andy_Bell.lrc"
+    }
+  ]
+}
